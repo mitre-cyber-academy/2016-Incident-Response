@@ -158,7 +158,7 @@ NOTE: This solution was performed entirely using Ubuntu 16.04LTS with LUKS and L
     1. **i.** The PCAP file from challenge 1 contains links to, and image files from, http://xkcd.com/936/, which calls out the password **&quot;CorrectHorseBatteryStaple&quot;.**
     2. **ii.** Using the Volatility Framework&#39;s **iehistory** plugin on the Windows volatile memory image from challenge #2 will reveal that http://xkcd.com/936/ was visited as well.
 
-## Challenge 3: Linux Volatile Memory Analysis
+## Challenge 4: Linux Volatile Memory Analysis
 
 ### Description:
 
